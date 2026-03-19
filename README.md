@@ -1,10 +1,9 @@
-# Puneeth Aradhya — DevOps Engineer (10+ years)
+# Srinivasa K — DevSecOps Engineer (10+ years)
 
 Personal website showcasing my skills, experience, and certifications, with an embedded AI assistant that answers only about me using a private knowledge base.
 
 | Component | Tools / Tech |
 |-----------|--------------|
-| Frontend | HTML5, CSS3, Bootstrap 5, JavaScript, Font Awesome |
 | Analytics | Google Tag Manager, gtag.js |
 | Chat UI | JavaScript |
 | Chatbot Backend | Python, Flask, vector search, local knowledge base (answers only about Puneeth) |
