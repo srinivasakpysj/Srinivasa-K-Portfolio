@@ -196,7 +196,7 @@ function initializeChatbot() {
 
 // Add welcome message
 function addWelcomeMessage() {
-    const welcomeMsg = `Hi! I'm your DevOps AI Assistant. I can help you learn about Puneeth's expertise, experience, and projects. Ask me anything!`;
+    const welcomeMsg = `Hi! I'm your DevOps AI Assistant. I can help you learn about Srinivasa K's expertise, experience, and projects. Ask me anything!`;
     addChatMessage(welcomeMsg, 'bot');
     
     // Ensure persistent bottom suggestions bar

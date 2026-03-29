@@ -192,7 +192,7 @@ function initializeChatWidget() {
         if (chatWidget.classList.contains('active')) {
             // Add welcome message if messages are empty
             if (chatMessages && chatMessages.children.length === 0) {
-                addChatMessage("Hi! I'm here to help you learn about Puneeth's DevOps expertise. Ask me anything!", 'bot');
+                addChatMessage("Hi! I'm here to help you learn about Srinivasa K's DevOps expertise. Ask me anything!", 'bot');
             }
         }
     });
@@ -253,11 +253,11 @@ function generateBotResponse(userMessage) {
     const message = userMessage.toLowerCase();
     
     if (message.includes('devops') || message.includes('experience')) {
-        return "Puneeth has 8+ years of DevOps experience at Accenture, specializing in CI/CD pipelines, cloud architecture, and automation. He's reduced deployment time by 70% and manual work by 85%!";
+        return "Srinivasa K has 4.5 + years of DevOps experience at Accenture, specializing in CI/CD pipelines, cloud architecture, and automation. He's reduced deployment time by 70% and manual work by 85%!";
     }
     
     if (message.includes('cloud') || message.includes('aws') || message.includes('azure')) {
-        return "Puneeth is expert in cloud platforms, particularly AWS and Azure. He's successfully migrated legacy applications to cloud with zero downtime and implemented scalable infrastructure solutions.";
+        return "Srinivasa K is expert in cloud platforms, particularly AWS and Azure. He's successfully migrated legacy applications to cloud with zero downtime and implemented scalable infrastructure solutions.";
     }
     
     if (message.includes('automation') || message.includes('script')) {
@@ -265,15 +265,15 @@ function generateBotResponse(userMessage) {
     }
     
     if (message.includes('award') || message.includes('recognition')) {
-        return "Puneeth has received multiple awards including the Accenture Celebrates Excellence Individual award and the pinNAcle Collaborator award for his outstanding contributions to automation and teamwork.";
+        return "Srinivasa K has received multiple awards including the Sonata Software Celebrates Excellence Individual award and the pinNAcle Collaborator award for his outstanding contributions to automation and teamwork.";
     }
     
     if (message.includes('contact') || message.includes('hire') || message.includes('work')) {
-        return "You can reach Puneeth through the contact section below, via LinkedIn, or email. He's based in Bengaluru, India and available for exciting DevOps projects!";
+        return "You can reach Srinivasa K through the contact section below, via LinkedIn, or email. He's based in Bengaluru, India and available for exciting DevOps projects!";
     }
     
     if (message.includes('skills') || message.includes('technology')) {
-        return "Puneeth's core technologies include Docker, Jenkins, AWS, Azure, Python, Linux, Splunk, Terraform, and various CI/CD tools. He's expert in Infrastructure as Code and security monitoring.";
+        return "Srinivasa K's core technologies include Docker, Jenkins, AWS, Azure, Python, Linux, Splunk, Terraform, and various CI/CD tools. He's expert in Infrastructure as Code and security monitoring.";
     }
     
     return "That's a great question! Puneeth has extensive experience in DevOps, cloud architecture, automation, and CI/CD. Feel free to explore his portfolio sections above to learn more, or ask me something specific!";
@@ -525,7 +525,7 @@ function initializeChatWidget() {
         if (chatWidget.classList.contains('active')) {
             // Add welcome message if messages are empty
             if (chatMessages && chatMessages.children.length === 0) {
-                addChatMessage("Hi! I'm here to help you learn about Puneeth's DevOps expertise. Ask me anything!", 'bot');
+                addChatMessage("Hi! I'm here to help you learn about Srinivasa K's DevOps expertise. Ask me anything!", 'bot');
             }
         }
     });
@@ -586,27 +586,27 @@ function generateBotResponse(userMessage) {
     const message = userMessage.toLowerCase();
     
     if (message.includes('devops') || message.includes('experience')) {
-        return "Puneeth has 8+ years of DevOps experience at Accenture, specializing in CI/CD pipelines, cloud architecture, and automation. He's reduced deployment time by 70% and manual work by 85%!";
+        return "Srinivasa K has 4.5+ years of DevOps experience at Accenture, specializing in CI/CD pipelines, cloud architecture, and automation. He's reduced deployment time by 70% and manual work by 85%!";
     }
     
     if (message.includes('cloud') || message.includes('aws') || message.includes('azure')) {
-        return "Puneeth is expert in cloud platforms, particularly AWS and Azure. He's successfully migrated legacy applications to cloud with zero downtime and implemented scalable infrastructure solutions.";
+        return "Srinivasa K is expert in cloud platforms, particularly AWS and Azure. He's successfully migrated legacy applications to cloud with zero downtime and implemented scalable infrastructure solutions.";
     }
     
     if (message.includes('automation') || message.includes('script')) {
-        return "Automation is Puneeth's specialty! He's developed numerous automation scripts using Python, Linux, and Infrastructure as Code tools, eliminating 85% of manual work.";
+        return "Automation is Srinivasa K's specialty! He's developed numerous automation scripts using Python, Linux, and Infrastructure as Code tools, eliminating 85% of manual work.";
     }
     
     if (message.includes('award') || message.includes('recognition')) {
-        return "Puneeth has received multiple awards including the Accenture Celebrates Excellence Individual award and the pinNAcle Collaborator award for his outstanding contributions to automation and teamwork.";
+        return "Srinivasa K has received multiple awards including the Accenture Celebrates Excellence Individual award and the pinNAcle Collaborator award for his outstanding contributions to automation and teamwork.";
     }
     
     if (message.includes('contact') || message.includes('hire') || message.includes('work')) {
-        return "You can reach Puneeth through the contact section below, via LinkedIn, or email. He's based in Bengaluru, India and available for exciting DevOps projects!";
+        return "You can reach Srinivasa K through the contact section below, via LinkedIn, or email. He's based in Bengaluru, India and available for exciting DevOps projects!";
     }
     
     if (message.includes('skills') || message.includes('technology')) {
-        return "Puneeth's core technologies include Docker, Jenkins, AWS, Azure, Python, Linux, Splunk, Terraform, and various CI/CD tools. He's expert in Infrastructure as Code and security monitoring.";
+        return "Srinivasa K's core technologies include Docker, Jenkins, AWS, Azure, Python, Linux, Splunk, Terraform, and various CI/CD tools. He's expert in Infrastructure as Code and security monitoring.";
     }
     
     return "That's a great question! Puneeth has extensive experience in DevOps, cloud architecture, automation, and CI/CD. Feel free to explore his portfolio sections above to learn more, or ask me something specific!";
